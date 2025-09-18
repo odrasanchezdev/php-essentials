@@ -2,7 +2,6 @@
 
 ## Descripción
 > Actividades prácticas realizadas con PHP para aprender el lenguaje. Siguiendo las instrucciones del curso, la actividad 6 utiliza una template de CSS que no es de mi propiedad, es extraída de manera gratuita. 
-<br>
 
 > El proyecto utiliza un patrón de diseño tipo Modelo-Vista-Controlador (MVC) para organizar el código. Empleamos un sistema de plantillas que renderiza las vistas, las cuales extraen la información necesaria según la página solicitada. Esto significa que cada parte del proyecto tiene una función específica:
 
