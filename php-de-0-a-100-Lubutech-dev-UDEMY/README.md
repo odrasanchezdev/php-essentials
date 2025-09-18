@@ -38,7 +38,7 @@ El proyecto se estructura de la siguente manera:
 ## Instalación y uso
 Descarga el repositorio a tu computadora. Puedes hacerlo de dos maneras:
 1. Clonar el repositorio usando Git:
-`git clone https://github.com/odrasanchezdev/php-essentials/php-de-0-a-100-Lubutech-dev-UDEMY/`
+`git clone https://github.com/odrasanchezdev/php-essentials/`
 2. Descargar un archivo ZIP directamente desde la página del repositorio en GitHub.
 
 Es necesario contar con un entorno de servidor local como XAMPP.
