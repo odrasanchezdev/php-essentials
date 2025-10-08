@@ -2,9 +2,9 @@
 
 ## Descripción
 > Actividades prácticas realizadas con PHP para aprender el lenguaje. Siguiendo las instrucciones del curso, la actividad 6 utiliza una template de CSS que no es de mi propiedad, es extraída de manera gratuita. 
-
+>
 > El proyecto utiliza un patrón de diseño tipo Modelo-Vista-Controlador (MVC) para organizar el código. Empleamos un sistema de plantillas que renderiza las vistas, las cuales extraen la información necesaria según la página solicitada. Esto significa que cada parte del proyecto tiene una función específica:
-
+>
 > * Controladores: Manejan las peticiones del usuario y determinan qué información se necesita.
 > * Vistas: Usan un sistema de plantillas para mostrar la información al usuario, adaptándose al tipo de página que se está visitando.
 <br>
@@ -18,7 +18,7 @@
 
 ## Tecnologías utilizadas 🔨
 <div align="center" style="display: inline_block">
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge" />
 </div>
 <br>
 
@@ -49,6 +49,7 @@ Es necesario contar con un entorno de servidor local como XAMPP.
   * En la carpeta `C:\xampp\htdocs` y coloca la carpeta del proyecto aquí. 
   * Abre tu navegador web. Para ver tu proyecto, escribe `localhost/PHP-0-a-100...` en la barra de direcciones.
 
+<br>
 
 ## Soporte
 Si tienes alguna pregunta, encuentras un error en alguno de los documentos o deseas sugerir una mejora, ¡no dudes en abrir un issue en este repositorio! Nos encantaría recibir tus comentarios.
@@ -57,6 +58,7 @@ Si tienes alguna pregunta, encuentras un error en alguno de los documentos o des
 * ¿Tienes una sugerencia? Abre un issue y comparte tu idea.
 
 Acercate a mis redes sociales para atender tus dudas y sugerencias en la sección de [Contacto](#contacto-)
+
 <br>
 
 ## Licencia ✅
@@ -67,6 +69,7 @@ Copyright (c) 2025 at Odra Sanchez. Enlace del perfil:
   
 <a href="https://github.com/odrasanchezdev">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 </div>
+
 <br>
 
 ## Contacto 🌐
