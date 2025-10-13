@@ -26,7 +26,7 @@
 <br>
 
 ### Notas importantes ⚠
-  - Los programas incluyen comentarios, observaciones y fórmulas explicativas, redactadas principalmente en español, para facilitar la comprensión del código y su propósito (*(The programs include comments, observations, and explanatory formulas written primarily in Spanish to help clarify the code and its purpose*).
+  - Los programas incluyen comentarios, observaciones y fórmulas explicativas, redactadas principalmente en español, para facilitar la comprensión del código y su propósito (*The programs include comments, observations, and explanatory formulas written primarily in Spanish to help clarify the code and its purpose*).
   - El contenido está orientado a estudiantes con un nivel inicial o básico en JavaScript, así como a quienes buscan reforzar y practicar los fundamentos del lenguaje de manera guiada.
 <br>
 
