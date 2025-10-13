@@ -11,7 +11,7 @@
 
 ## Estado de carpeta 📂
 <div align="center" style="display: inline_block">
-<img src="https://img.shields.io/badge/Coverage-100%25-7389A6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Avnace-100%25-7389A6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Version-1.0-7389A6?style=for-the-badge" />
 </div>
 <br>
@@ -23,7 +23,7 @@
 <br>
 
 ### Notas importantes ⚠
-  - Los documentos cuentan con comentarios, observaciones y fórmulas en español.
+  - Los documentos cuentan con comentarios, observaciones y fórmulas en español (*The programs include comments, observations, and explanatory formulas written primarily in Spanish to help clarify the code and its purpose*).
 
 El proyecto se estructura de la siguente manera:
   - /controlador: Contiene el archivo que realiza el llamado a la plantilla. Evitando los errores de rutas para imagenes y archivos CSS se añadio una ruta
