@@ -52,7 +52,7 @@ Es necesario contar con un entorno de servidor local como XAMPP.
 <br>
 
 ## Soporte
-Si tienes alguna pregunta, encuentras un error en alguno de los documentos o deseas sugerir una mejora, ¡no dudes en abrir un issue en este repositorio! Nos encantaría recibir tus comentarios.
+Si tienes alguna pregunta, encuentras un error en alguno de los documentos o deseas sugerir una mejora, ¡no dudes en abrir un issue en este repositorio! Me encantaría recibir tus comentarios.
 
 * ¿Encontraste un error? Abre un issue y describe el problema.
 * ¿Tienes una sugerencia? Abre un issue y comparte tu idea.
